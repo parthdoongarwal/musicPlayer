@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+    />
+
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div id="con">
+      <div id="card-con">
+        <div id="text-con">
+          <h1 id="h11">Full『Cinderella』by</h1>
+        </div>
+
+        <div id="image-con">
+          <!-- <i id="pin" class="fa fa-thumb-tack" aria-hidden="true"></i> -->
+          <img id="imageee" src="/images/Cindrella.jpg" alt="" />
+        </div>
+
+        <div id="audio-con">
+          <button id="backword-button" onclick="Previus()">
+            <i class="fa fa-backward" aria-hidden="true"></i>
+          </button>
+          <audio
+            id="audio"
+            controls
+            src="/audio/[MP3FY] Komi-san Can't Communicate - Opening Full『Cinderella』by Cidergirl.mp3"
+          >
+            Your browser does not support the
+            <code>audio</code> element.
+          </audio>
+          <button id="next-button" onclick="Next()">
+            <i class="fa fa-forward" aria-hidden="true"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>
