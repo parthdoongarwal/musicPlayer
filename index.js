@@ -10,24 +10,24 @@ const data = [
   {
     img: "/images/Cindrella.jpg",
     name: "Full『Cinderella』by",
-    url: "/audio/[MP3FY] Komi-san Can't Communicate - Opening Full『Cinderella』by Cidergirl.mp3",
+    url: "[MP3FY] Komi-san Can't Communicate - Opening Full『Cinderella』by Cidergirl.mp3",
   },
 
   {
     img: "/images/Cradles.jpg",
     name: "Cradles",
-    url: "/audio/[MP3FY] Sub Urban - Cradles [Official Music Video].mp3",
+    url: "[MP3FY] Sub Urban - Cradles [Official Music Video].mp3",
   },
 
   {
     img: "/images/ErasedEn.jpg",
     name: "Erased ending song",
-    url: "/audio/[MP3FY] Sayuri - Sore wa Shiisana Hikari no Youna _ Boku Dake Ga Inai Machi (ERASED) FULL ENDING.mp3",
+    url: "[MP3FY] Sayuri - Sore wa Shiisana Hikari no Youna _ Boku Dake Ga Inai Machi (ERASED) FULL ENDING.mp3",
   },
 
   {
     img: "https://i.ytimg.com/vi/foKNT2tLfl8/hqdefault.jpg",
-    url: "/audio/[MP3FY] FullMetal Alchemist Brotherhood ED 1 (1).mp3",
+    url: "[MP3FY] FullMetal Alchemist Brotherhood ED 1 (1).mp3",
     name: "Full metal Brotherhood",
   },
 ];
